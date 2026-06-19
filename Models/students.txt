@@ -1,0 +1,3 @@
+Salom, bu mening birinchi test faylim.
+Men C# dasturlash tilini o'rganyapman.
+OOP va Metodlar mavzusi juda qiziqarli ekan.
